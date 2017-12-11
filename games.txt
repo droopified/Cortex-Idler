@@ -1,0 +1,38 @@
+  // Put the PATH (C:\Path\To\Game\Files). On the next line of that, put the FILENAME (Don't include the ".exe" extention in the filename). Then, put the Earn Rate value of the zSilver for that game. Only put up to 10 Paths,Filenamee, and Values. // 
+D:\Games\SteamLibrary\steamapps\common\Left 4 Dead 2
+left4dead2
+1
+D:\Games\SteamLibrary\steamapps\common\Paladins\Binaries\Win32
+Paladins
+1
+D:\Games\SteamLibrary\steamapps\common\rocketleague\Binaries\Win32
+RocketLeague
+1
+D:\Games\Blizzard\Hearthstone
+Hearthstone
+1
+D:\Games\Riot Games\League of Legends\RADS\solutions\lol_game_client_sln\releases\0.0.1.196\deploy
+League of Legends
+3
+D:\Games\SteamLibrary\steamapps\common\ArcheAge\Games\ArcheAge\Live\bin32
+archeage
+3
+D:\Games\SteamLibrary\steamapps\common\Counter-Strike Global Offensive
+csgo
+3
+Path
+skip
+1
+Path
+skip
+1
+Path
+skip
+3  Earn rate zSilver per min  
+  // Anything on this line and blow wont be ignored. You can save games the game paths and filenames if they are not featured for that month so you can cut/paste when they become featured games again. // 
+Path
+Filename
+Earn rate zSilver per min 
+C:\Program Files (x86)\Steam\steamapps\common\PUBG\TslGame\Binaries\Win64
+TslGame
+1
