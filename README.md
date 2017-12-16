@@ -1,6 +1,10 @@
 # Cortex-Idler
 Idle Cortex games
 
+What is it?
+Lets you idle installed games by changing the exe to a low filesize exe for each game then restores the original exe when the specified idle time is completed. 
+
+How to use?
 Edit games.txt so that each game you want to idle uses 3 lines of text at a time. Put the full path (without the trailing \ at the end of the path). On the next line, put the filename of the game OR the launcher (without the .exe extention). On the last line, enter the earn rate value for the zSilver. It should look something like this for each game...
 
 C:\Path\To\Game\Directory
